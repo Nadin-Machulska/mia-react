@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mia-react/static/css/main.2dfb976a.css",
+    "main.js": "/mia-react/static/js/main.af107ee6.js",
+    "index.html": "/mia-react/index.html",
+    "main.2dfb976a.css.map": "/mia-react/static/css/main.2dfb976a.css.map",
+    "main.af107ee6.js.map": "/mia-react/static/js/main.af107ee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dfb976a.css",
+    "static/js/main.af107ee6.js"
+  ]
+}
