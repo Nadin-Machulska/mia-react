@@ -73,7 +73,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path='/'
+        <Route  path={process.env.PUBLIC_URL}
           element={<Layout
             inputValue={inputValue}
             handleInputChange={handleInputChange}
